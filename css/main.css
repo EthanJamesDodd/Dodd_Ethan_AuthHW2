@@ -1,0 +1,13 @@
+main{
+  text-align: center;
+}
+
+.container{
+  width: 30%;
+  display: inline-block;
+}
+
+.container{
+  display: block;
+  width: 100%;
+}
